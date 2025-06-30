@@ -10,8 +10,11 @@ tags:
 ## PS作品
 ### 数字绘景
 下图来源自网络
+
 ![img](/videos/作品图集/图片1.jpg)
+
 绘景后
+
 ![img](/videos/作品图集/图片2.jpg)
 
 ### PS绘画
@@ -22,7 +25,7 @@ tags:
 ![img](/videos/作品图集/图片7.jpg)
 ![img](/videos/作品图集/图片8.jpg)
 
-### Ai作品
+## Ai作品
 ![img](/videos/作品图集/图片9.jpg)
 ![img](/videos/作品图集/图片10.jpg)
 ![img](/videos/作品图集/图片11.jpg)
