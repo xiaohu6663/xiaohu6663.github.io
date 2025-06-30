@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "blender动画"
+author:     "Huyuege"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Meta
+---
+
+### 动画作品《生生不息》
+
+<!-- 直接嵌入视频 -->
+<video controls width="100%">
+  <source src="{{ '/videos/shengbuxi.mp4' | relative_url }}" type="video/mp4">
+  您的浏览器不支持视频标签
+</video>
+### 动画作品《未来·美丽新世界（食物篇）》
+结合AIGC技术，探讨未来时空里人类的生活方式......
+
+<!-- 直接嵌入视频 -->
+<video controls width="100%">
+  <source src="{{ '/videos/waimai.mp4' | relative_url }}" type="video/mp4">
+  您的浏览器不支持视频标签
+</video>
+
+
+---
