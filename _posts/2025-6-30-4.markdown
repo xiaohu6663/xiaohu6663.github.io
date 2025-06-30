@@ -25,7 +25,7 @@ tags:
 
 <!-- 直接嵌入视频 -->
 <video controls width="100%">
-  <source src="{{ '/videos/ecc61809ecbbf7aaaa7df5a30521f6a8.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/videos/change.mp4' | relative_url }}" type="video/mp4">
   您的浏览器不支持视频标签
 </video>
 
