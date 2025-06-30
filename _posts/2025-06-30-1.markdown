@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "游戏开发"
-subtitle:   " \"Hello World, Hello Blog\""
 author:     "Huyuege"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -20,7 +19,7 @@ tags:
   您的浏览器不支持视频标签
 </video>
 ### Unity音游demo
-负责游戏流程控制、选曲界面及设置功能的开发与实现。
+负责游戏流程控制、选曲界面及设置功能的开发与实现
 
 <!-- 直接嵌入视频 -->
 <video controls width="100%">
