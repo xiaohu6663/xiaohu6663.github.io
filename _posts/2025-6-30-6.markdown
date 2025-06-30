@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "AE动效"
+author:     "Huyuege"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Meta
+---
+
+## 正文
+
+### 将PSD文件导入AE做出粒子动效等...
+
+<!-- 直接嵌入视频 -->
+<video controls width="100%">
+  <source src="{{ '/videos/change.mp4' | relative_url }}" type="video/mp4">
+  您的浏览器不支持视频标签
+</video>
+---
