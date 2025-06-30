@@ -26,5 +26,6 @@ tags:
 
 ### AI漫画
 一个英雄救美的故事
-
+![img](/videos/图片1.jpg)
+![img](/videos/2.jpg)
 ---
