@@ -16,7 +16,7 @@ tags:
 
 <!-- 直接嵌入视频 -->
 <video controls width="100%">
-  <source src="{{ '/video/game.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/videos/game.mp4' | relative_url }}" type="video/mp4">
   您的浏览器不支持视频标签
 </video>
 
