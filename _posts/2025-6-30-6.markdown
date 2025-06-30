@@ -12,9 +12,14 @@ tags:
 
 ### 将PSD文件导入AE做出粒子动效等...
 
+原图：
+
+
+
+### 效果如下：
 <!-- 直接嵌入视频 -->
 <video controls width="100%">
-  <source src="{{ '/videos/change.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/videos/视频1.mp4' | relative_url }}" type="video/mp4">
   您的浏览器不支持视频标签
 </video>
 ---
