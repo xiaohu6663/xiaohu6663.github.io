@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "Maya特效篇"
+author:     "Huyuege"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Meta
+---
+
+## 正文
+
+### 特效动画
+粒子、流体、布料特效
+
+<!-- 直接嵌入视频 -->
+<video controls width="100%">
+  <source src="{{ '/videos/texiao.mp4' | relative_url }}" type="video/mp4">
+  您的浏览器不支持视频标签
+</video>
+
+
+---
