@@ -1,7 +1,30 @@
-
+---
+layout:     post
+title:      "Ps和Ai作品集"
+author:     "Huyuege"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Meta
+---
 ## PS作品
 ### 数字绘景
 下图来源自网络
 ![img](/videos/作品图集/图片1.jpg)
 绘景后
 ![img](/videos/作品图集/图片2.jpg)
+
+### PS绘画
+![img](/videos/作品图集/图片3.jpg)
+![img](/videos/作品图集/图片4.jpg)
+![img](/videos/作品图集/图片5.jpg)
+![img](/videos/作品图集/图片6.jpg)
+![img](/videos/作品图集/图片7.jpg)
+![img](/videos/作品图集/图片8.jpg)
+
+### Ai作品
+![img](/videos/作品图集/图片9.jpg)
+![img](/videos/作品图集/图片10.jpg)
+![img](/videos/作品图集/图片11.jpg)
+![img](/videos/作品图集/图片12.jpg)
+---
