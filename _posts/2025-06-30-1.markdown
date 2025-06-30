@@ -9,11 +9,14 @@ tags:
     - Meta
 ---
 
-
-
-
-
 ## 正文
+
+### 文字冒险游戏《渔夫奇遇记》demo
+
+{% include video_player.html 
+   src="/video/game.mp4" 
+   caption="主要游戏场景演示" 
+%}
 
 
 
