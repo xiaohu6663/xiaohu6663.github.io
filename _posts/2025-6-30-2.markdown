@@ -9,7 +9,7 @@ tags:
 ---
 
 ### 动画作品《生生不息》
-
+满怀期待步入社会这片钢铁森林，是被同化成“社会人”，还是能依旧保持一颗初心呢？
 <!-- 直接嵌入视频 -->
 <video controls width="100%">
   <source src="{{ '/videos/shengbuxi.mp4' | relative_url }}" type="video/mp4">
